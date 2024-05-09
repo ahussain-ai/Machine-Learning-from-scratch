@@ -1,0 +1,7 @@
+I'm particularly interested in two key aspects of AI safety and alignment: bias mitigation and interpretability.
+
+Bias Mitigation: AI systems can inherit and amplify biases present in the data they're trained on. This can lead to discriminatory or unfair outcomes. I'm keen to explore techniques for mitigating bias in AI models, such as fairer data collection practices, debiasing algorithms, and fairness metrics.
+
+Interpretability: Often, AI models are like black boxes - we get an output, but understanding how they arrive at that decision is difficult. This lack of transparency can hinder trust and make it challenging to ensure alignment with human values. I'm fascinated by the field of Explainable AI (XAI) and how we can make AI models more interpretable, allowing us to better understand their reasoning and decision-making processes.
+
+By focusing on these two areas, I believe we can work towards building safer and more trustworthy AI systems that are truly aligned with human goals and values.
